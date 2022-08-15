@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.question {
+  background-color: azure;
+}
+.answer {
+  background-color: burlywood;
+}
+.who {
+  font-style: italic;
+}
